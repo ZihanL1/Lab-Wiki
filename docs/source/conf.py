@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Lab Wiki'
+copyright = '2025, Zhang Lab'
+author = 'Zhang Lab'
 
 release = '0.1'
 version = '0.1.0'
@@ -33,3 +33,5 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+html_static_path = ["_static"]

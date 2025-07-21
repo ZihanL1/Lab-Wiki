@@ -20,3 +20,8 @@ Getting Started
 
 6. Get familiar with Vim. This is an editor that you use for editing files on the remote computer, the best way to learn vim is to open a terminal and type vim.
    If it is installed, it should fire up the vim tutorial for you to go through. `Here <https://danielmiessler.com/study/vim/>`_ is a brief introduction to Vim.
+
+Computing resources
+-------------------
+
+

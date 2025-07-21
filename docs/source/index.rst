@@ -7,17 +7,10 @@ and internal resources related to our software and research projects.
 To learn more about our team, research, and publications,
 please visit our `official website <https://xinglong-zhang.github.io/>`_.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
 Contents
 --------
 
 .. toctree::
 
-   usage
    setup
+   meeting
