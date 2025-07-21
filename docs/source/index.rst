@@ -1,8 +1,10 @@
 Welcome to Lab Wiki!
 ===================================
 
-This Lab Wiki contains shared documents and internal resources from our lab.
-For more info about our people, research, and publications,
+Welcome to the internal documentation of our research group.
+Here you'll find shared notes, technical documentation,
+and internal resources related to our software and research projects.
+To learn more about our team, research, and publications,
 please visit our `official website <https://xinglong-zhang.github.io/>`_.
 
 Check out the :doc:`usage` section for further information, including
