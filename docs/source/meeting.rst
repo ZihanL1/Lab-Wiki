@@ -6,7 +6,7 @@ For details about the group's schedule, please contact Professor Zhang to be add
 Coding Session / Progress Update
 --------------------------------
 
-**Every Monday from 2:00 PM to 4:00 PM (Hong Kong Time)**, we alternate between a Coding Session and a Progress Update.
+**Every Monday from 2:00 PM to 4:00 PM (Hong Kong time)**, we alternate between a Coding Session and a Progress Update.
 
 - During the **Progress Update**, please share your project progress from the past two weeks — Professor Zhang will join us for helpful discussions.
 
@@ -38,20 +38,20 @@ Upcoming Schedule:
 
    * - **Date**
      - **Presenter**
-     - **Paper Title**
-   * - 2025-07-25
+     - **Paper**
+   * - 07-25-2025
      - Zihan Li
      - Constructing and explaining machine learning models for chemistry: example of the exploration and design of boron-based Lewis acids
-   * - 2025-08-01
+   * - 08-01-2025
      - —
      - ORIENTATION WEEK @ CUHK
-   * - 2025-08-08
+   * - 08-08-2025
      - Sum Ming
      - Sampling 3D Molecular Conformers with Diffusion Transformers
-   * - 2025-08-15
+   * - 08-15-2025
      - Yu Xie
      - UMA: A Family of Universal Models for Atoms
-   * - 2025-08-22
+   * - 08-22-2025
      - Jingyi Liu
      - Auto-QChem: an automated workflow for the generation and storage of DFT calculations for organic molecules
 
