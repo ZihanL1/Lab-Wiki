@@ -1,5 +1,5 @@
-Meeting
-=======
+Group Meeting
+=============
 
 For details about the group's schedule, please contact Professor Zhang to be added to the lab’s Google Calendar.
 
