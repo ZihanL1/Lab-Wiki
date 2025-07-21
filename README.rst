@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Lab Wiki
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This the internal documentation of our research group.
 
-Read the tutorial here:
+To learn more about our team, research, and publications, please visit our official website.
 
-https://docs.readthedocs.io/en/stable/tutorial/
