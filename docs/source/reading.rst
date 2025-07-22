@@ -4,6 +4,14 @@ Reading List
 In general, you’re encouraged to read papers based on your own research interests and projects.
 Here are some recommended readings to support your work in our lab.
 
+Quantum Chemistry
+-----------------
+- Exploring Chemistry with Electronic Structure Methods.
+  *Gaussian, Inc.*, **2015**, 3rd ed., Wallingford, CT.
+
+- Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory.
+  *Dover Publications*, **1996**, New York.
+
 Computational Catalysis
 -----------------------
 
