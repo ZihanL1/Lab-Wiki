@@ -1,4 +1,11 @@
-Welcome to Lab Wiki!
+Welcome to The Zhang Lab Wiki!
+==============================
+
+.. image:: _static/zhang_logo.png
+   :alt: The Zhang Lab Logo
+   :width: 400px
+   :align: center
+
 ===================================
 
 This is the internal documentation of our research group.

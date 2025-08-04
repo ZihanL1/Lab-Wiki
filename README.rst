@@ -1,4 +1,4 @@
-Lab Wiki
+Welcome to the Zhang Lab Wiki!
 =======================================
 
 This is the internal documentation of our research group.
