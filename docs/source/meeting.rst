@@ -10,7 +10,7 @@ Progress Update / Journal Club
 
 - During the **Progress Update**, please share your project progress from the past two weeks — Professor Zhang will join us for helpful discussions.
 
-- For **Journal Club**, one group member will give a literature presentation. After that, some technical issues will also be discussed.
+- During the **Journal Club**, one group member will give a literature presentation. After that, some technical issues will also be discussed.
 
 For Progress Update, ppt slides are not mandatory, but it is essential to clearly present the work content and the subsequent plan.
 
