@@ -1,12 +1,12 @@
 Group Meeting
 =============
 
-For details about the group's schedule, please contact Professor Zhang to be added to the lab’s Google Calendar。
+For details about the group's schedule, please contact Professor Zhang to be added to the lab’s Google Calendar.
 
 Progress Update / Journal Club
 --------------------------------
 
-**Every Monday from 2:00 PM to 4:00 PM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club.
+**Every Monday from 2:00 PM to 4:00 PM (Hong Kong time)**, we alternate between a Progress Update and a Journal Club. Join via `Microsoft Teams Link <teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ1OWNhYzAtODk0YS00MTU4LTgyZDUtYjgyZGExYThlMjI4%40thread.v2/0?context=%7b"Tid"%3a"a2c8f93f-126b-4596-a360-8941a8984b08"%2c"Oid"%3a"a01f610e-456a-478e-a980-248fa8edd125"%7d>`_.
 
 - During the **Progress Update**, please share your project progress from the past two weeks — Professor Zhang will join us for helpful discussions.
 
