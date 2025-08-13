@@ -25,9 +25,6 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Paper**
-   * - 08-11-2025
-     - Sum Ming
-     - Sampling 3D Molecular Conformers with Diffusion Transformers
    * - 08-18-2025
      - All members
      - Progress Update
