@@ -25,10 +25,7 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 08-19-2025 ⭐
-     - All members
-     - Progress Update *(delayed from 08-18-2025)*
-   * - 08-25-2025
+   * - 08-25-2025 ⭐
      - Yu Xie
      - `UMA: A Family of Universal Models for Atoms <https://arxiv.org/abs/2506.23971>`_
    * - 09-01-2025
@@ -37,6 +34,9 @@ Upcoming Schedule:
    * - 09-08-2025
      - Jingyi Liu
      - `Auto-QChem: an automated workflow for the generation and storage of DFT calculations for organic molecules <https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00030j>`_
+   * - 09-15-2025
+     - All members
+     - Progress Update
 
 Previous Journal Club:
 
