@@ -37,6 +37,9 @@ Upcoming Schedule:
    * - 09-15-2025
      - All members
      - Progress Update
+   * - 09-22-2025
+     - Huiwen Tan
+     - `An automated framework for exploring and learning potential-energy surfaces <https://www.nature.com/articles/s41467-025-62510-6>`_
 
 Previous Journal Club:
 
