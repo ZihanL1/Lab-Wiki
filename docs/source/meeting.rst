@@ -25,10 +25,7 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 08-25-2025 ⭐
-     - Yu Xie
-     - `UMA: A Family of Universal Models for Atoms <https://arxiv.org/abs/2506.23971>`_
-   * - 09-01-2025
+   * - 09-01-2025 ⭐
      - All members
      - Progress Update
    * - 09-08-2025
@@ -50,6 +47,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 08-25-2025 
+     - Yu Xie
+     - `UMA: A Family of Universal Models for Atoms <https://arxiv.org/abs/2506.23971>`_
    * - 08-11-2025
      - Sum Ming Cho
      - `Sampling 3D Molecular Conformers with Diffusion Transformers <https://arxiv.org/abs/2506.15378>`_
