@@ -25,7 +25,7 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 09-09-2025 ⭐**(Postponed to Tuesday 2PM)**
+   * - 09-09-2025 ⭐(Postponed to Tuesday 2PM)
      - Jingyi Liu 
      - `Auto-QChem: an automated workflow for the generation and storage of DFT calculations for organic molecules <https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00030j>`_
    * - 09-15-2025
