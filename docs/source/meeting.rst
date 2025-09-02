@@ -25,11 +25,8 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 09-01-2025 ⭐
-     - All members
-     - Progress Update
-   * - 09-09-2025 **(Postponed to Tuesday)**
-     - Jingyi Liu
+   * - 09-09-2025 ⭐**(Postponed to Tuesday 2PM)**
+     - Jingyi Liu 
      - `Auto-QChem: an automated workflow for the generation and storage of DFT calculations for organic molecules <https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00030j>`_
    * - 09-15-2025
      - All members
@@ -37,6 +34,9 @@ Upcoming Schedule:
    * - 09-22-2025
      - Huiwen Tan
      - `An automated framework for exploring and learning potential-energy surfaces <https://www.nature.com/articles/s41467-025-62510-6>`_
+   * - 09-029-2025 
+     - All members
+     - Progress Update
 
 Previous Journal Club:
 
