@@ -25,10 +25,7 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 09-09-2025 ⭐(Postponed to Tuesday 2PM)
-     - All members
-     - Progress Update
-   * - 09-15-2025 CANCELLED
+   * - 09-15-2025 CANCELLED⭐
      - \
      - \
    * - 09-22-2025
@@ -37,6 +34,9 @@ Upcoming Schedule:
    * - 09-29-2025 
      - Jingyi Liu
      - `Auto-QChem: an automated workflow for the generation and storage of DFT calculations for organic molecules <https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00030j>`_
+   * - 10-06-2025
+     - All members
+     - Progress Update
 
 Previous Journal Club:
 
