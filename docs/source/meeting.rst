@@ -25,19 +25,16 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 10-08-2025(Wed 2:30PM)
-     - All members
-     - Progress Update
-   * - 10-13-2025 
-     - Huiwen Tan
-     - `An automated framework for exploring and learning potential-energy surfaces <https://doi.org/10.1038/s41467-025-62510-6>`_
-   * - 10-20-2025
-     - All members
-     - Progress Update
-   * - 10-27-2025 
+   * - 10-27-2025
      - Lewen Wang
      - `Large language model guided automated reaction pathway exploration <http://doi.org/10.1038/s42004-025-01630-y>`_
-
+   * - 11-03-2025
+     - All members
+     - Progress Update
+   * - 11-10-2025
+     - Zihan Li
+     - `In Search of the Best Low-Cost Methods for Efficient Screening of Conformers <https://doi.org/10.1021/acs.jpca.4c01407>`_
+   
 Previous Journal Club:
 
 .. list-table::
@@ -47,6 +44,9 @@ Previous Journal Club:
    * - **Date**
      - **Presenter**
      - **Details**
+   * - 10-13-2025 
+     - Huiwen Tan
+     - `An automated framework for exploring and learning potential-energy surfaces <https://doi.org/10.1038/s41467-025-62510-6>`_
    * - 09-29-2025
      - Jingyi Liu
      - `Auto-QChem: an automated workflow for the generation and storage of DFT calculations for organic molecules <https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00030j>`_
