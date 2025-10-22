@@ -34,6 +34,9 @@ Upcoming Schedule:
    * - 11-10-2025
      - Zihan Li
      - `In Search of the Best Low-Cost Methods for Efficient Screening of Conformers <https://doi.org/10.1021/acs.jpca.4c01407>`_
+   * - 11-17-2025
+     - All members
+     - Progress Update
    
 Previous Journal Club:
 
